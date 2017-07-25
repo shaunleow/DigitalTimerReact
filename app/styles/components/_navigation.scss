@@ -12,8 +12,9 @@
     display: inline;
     padding: 0;
   }
-}
 
-.active-link {
-  color: $link;
+  .active-link {
+    color: $link;
+    font-weight: bold;
+  }
 }
